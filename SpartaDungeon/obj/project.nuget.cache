@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+l8rZ2vbZ6/X783PW8aTKzsDrScmIcu3k+F16lHFnq35ZMOou1OrpL28quJlCeSw/kIrqQRCJXNG2AJYSLk8tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rgh99\\source\\repos\\SpartaDungeon\\SpartaDungeon\\SpartaDungeon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgh99\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
